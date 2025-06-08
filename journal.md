@@ -7,3 +7,4 @@ DD/MM/YY
 ## 08/06/25 - Day 2
  - Develop BOM
  - Further work on frame design and CAD assembly
+ - Further research into flight controller and camera component design
