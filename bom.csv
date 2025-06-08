@@ -1,0 +1,10 @@
+part,model,link,cost (AUD),quantity
+Frame,3D Printed,N/A,N/A,1
+Motors,EMAX ECO II 2207 2400kV,https://www.fpvfaster.com.au/products/emax-eco-iii-2207-motor-brushless-3-6s-1700kv-2400kv,27.99,4
+Electronic Speed Controller,Brushless 30A Electronic Speed Controller,https://www.aliexpress.com/item/1005008676156986.html,6.22,4
+Flight Controller,Raspberry Pi Zero 2W,https://raspberry.piaustralia.com.au/products/raspberry-pi-zero-2-w,31.41,1
+Sensors,DOF10 GY-87 Sensor Module,https://raspberry.piaustralia.com.au/products/10dof-module-mpu6050-hmc5883l-bmp180-gy87-sensor-module,16.1
+Receiver/Transmitter,FlySky FS-i6X Transmitter and FS-iA6B Receiver,https://www.amazon.com.au/Mingzhe-Transmitter-Receiver-Airplane-Helicopter/dp/B0CND6YBWM,101.89,1
+Voltage Regulator,7805 5v Voltage Regulator,https://core-electronics.com.au/lm7805-5v-voltage-regulator.html,0.92,1
+Battery,DOGCOM 1550mAh 150C 4S 14.8V,https://www.aliexpress.com/i/1005005664380363.html,51.39,1
+Camera
