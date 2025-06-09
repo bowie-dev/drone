@@ -8,3 +8,7 @@ DD/MM/YY
  - Develop BOM
  - Further work on frame design and CAD assembly
  - Further research into flight controller and camera component design
+
+## 09/06/25 - Day 3
+ - Finalise BOM and part sourcing
+ - Design components in CAD to help brainstorm part fitment and orientation
