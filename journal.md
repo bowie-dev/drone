@@ -12,3 +12,8 @@ DD/MM/YY
 ## 09/06/25 - Day 3
  - Finalise BOM and part sourcing
  - Design components in CAD to help brainstorm part fitment and orientation
+
+## 10/06/25
+ - Source camera and transmitter
+ - Further develop frame design
+ - FEA (Finite element analysis) to determine physical limits of frame and current setup
