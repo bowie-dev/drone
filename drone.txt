@@ -1,0 +1,46 @@
+requirements
+15 mins battery at least
+40km/h at least
+camera 720p at least
+frame 220x180x4
+
+
+bom
+Motors - EMAX ECO III 2207 2400kV 4x 28 = 112AUD
+Frame - 3D Printed Frame 220x180mm (Free)
+ESCs - aliexpress 30A single esc 4x10 = 40AUD
+Flight Controller - Raspberry Pi Zero 2 W = 31
+Sensors - 10DOF Module MPU6050 HMC5883L BMP180 GY87 Sensor Module = 17AUD
+Transmitter - FlySky FS-i6X = 100
+Reciever
+https://www.temu.com/au/-6x-2-4ghz-10ch-afhds-2a-rc-transmitter-with-a10b-receiver-for-rc--airplane-helicopter-g-601099616984853.html
+Voltage Regulator - 5v ~1A Voltage Regulator = 2AUD
+Battery - DOGCOM 1550mAh 150C 4S 14.8V = 50AUD
+Camera - Arducam 5MP OV5647 1080p Mini Camera Module 5AUD
++ unforseen component costs
+~~ 350aud
+== 230 USD
+
+https://www.aliexpress.com/item/1005003504887193.html
+camera, vtx and reciever
+
+https://www.aliexpress.com/item/32952701215.html
+1.6W VTX and 1k TVL 75
+
+27.99 MOTOR
+27.99
+27.99
+27.99 FPV FASTER
+6.49 ESC
+6.49
+6.49
+6.49 ALIEXPRESS
+101.89 TRANSMITTER + RECEIVER AMAZON
+0.92 VOLTAGE REGULATOR COREELECTRONICS
+51.39 BATTERY ALIEXPRESS
+31.41 FC PI AUSTRALIA
+16.10 SENSORS PI AUSTRALIA
+5.15 CAMERA COREELECTRONICS
+
+318.63
+
