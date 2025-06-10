@@ -13,7 +13,10 @@ DD/MM/YY
  - Finalise BOM and part sourcing
  - Design components in CAD to help brainstorm part fitment and orientation
 
-## 10/06/25
+## 10/06/25 - Day 4
  - Source camera and transmitter
  - Further develop frame design
  - FEA (Finite element analysis) to determine physical limits of frame and current setup
+ - CFD (computational flow dynamics) to determine aerodynamic properties of current design
+ - Camera mounting brainstorm
+ - [Day 4 Documentation]([#sample-section](https://raw.githubusercontent.com/bowie-dev/drone/refs/heads/main/Journal-10-06.md))
