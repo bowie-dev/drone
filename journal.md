@@ -19,4 +19,4 @@ DD/MM/YY
  - FEA (Finite element analysis) to determine physical limits of frame and current setup
  - CFD (computational flow dynamics) to determine aerodynamic properties of current design
  - Camera mounting brainstorm
- - [Day 4 Documentation](https://raw.githubusercontent.com/bowie-dev/drone/refs/heads/main/Journal-10-06.md)
+ - [Day 4 Documentation](https://github.com/bowie-dev/drone/blob/main/journal-10-06.md)
