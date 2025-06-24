@@ -20,3 +20,6 @@ DD/MM/YY
  - CFD (computational flow dynamics) to determine aerodynamic properties of current design
  - Camera mounting brainstorm
  - [Day 4 Documentation](https://github.com/bowie-dev/drone/blob/main/journal-10-06.md)
+
+![](https://raw.githubusercontent.com/bowie-dev/drone/refs/heads/main/img/img1.png)
+![](https://raw.githubusercontent.com/bowie-dev/drone/refs/heads/main/img/img2.png)
