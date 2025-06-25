@@ -12,7 +12,7 @@ CAD files are in /cad/.
 ![](https://github.com/bowie-dev/drone/blob/main/img/img1.png?raw=true)
 ![](https://raw.githubusercontent.com/bowie-dev/drone/refs/heads/main/img/mock.png)
 ### Wiring Diagram:
-WIP
+![image](https://github.com/user-attachments/assets/c9e5a3aa-a088-4dbe-876e-35efe6272844)
 
 ## BOM:
 | Part                            | Model                     | Link                                                                                                                            | Cost (AUD) | Quantity | Shipping | Total   |
