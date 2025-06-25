@@ -1,12 +1,19 @@
 # Low-Cost FPV Drone
+## Description:
+A low-cost, first-person-view, remote controlled quadcopter using the Raspberry Pi Zero 2 W as the flight controller.
+I am making this because I have an interest in and want to get into FPV drone flight.
 
+## Files:
+Bill of Materials (BOM) is /bom.csv
+CAD files are in /cad/.
 
+## Design:
+### Model:
+![](https://github.com/bowie-dev/drone/blob/main/img/img1.png?raw=true)
+### Wiring Diagram:
+WIP
 
-
-
-
-
-## BOM
+## BOM:
 | Part                            | Model                     | Link                                                                                                                            | Cost (AUD) | Quantity | Shipping                              | Total   |
 | ------------------------------- | ------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------- | ------------------------------------- | ------- |
 | Frame                           | N/A                       | N/A                                                                                                                             | $0.00      | 1        | $0.00                                 | $0.00   |
