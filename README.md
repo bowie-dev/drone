@@ -4,7 +4,7 @@ A low-cost, first-person-view, remote controlled quadcopter using the Raspberry 
 I am making this because I have an interest in and want to get into FPV drone flight.
 
 ## Files:
-Bill of Materials (BOM) is /bom.csv\n
+Bill of Materials (BOM) is /bom.csv<br>
 CAD files are in /cad/.
 
 ## Design:
