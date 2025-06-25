@@ -10,6 +10,7 @@ CAD files are in /cad/.
 ## Design:
 ### Model:
 ![](https://github.com/bowie-dev/drone/blob/main/img/img1.png?raw=true)
+![](https://raw.githubusercontent.com/bowie-dev/drone/refs/heads/main/img/mock.png)
 ### Wiring Diagram:
 WIP
 
