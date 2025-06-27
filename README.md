@@ -5,11 +5,12 @@ I am making this because I have an interest in and want to get into FPV drone fl
 
 ## Files:
 Bill of Materials (BOM) is /bom.csv<br>
-CAD files are in /cad/.  (all solidworks files because I use solidworks and I am printing everything myself, if you need the CAD files PLEASE DM me before rejecting)
-
+CAD files are in /cad/. 
+All the CAD is SolidWorks parts/assemblies but frame is STEP file, I am printing the frame myself. If you need STEP files for all components (idk why you would) DM me before rejecting.
 
 ## Design:
 ### Model:
+![image](https://github.com/user-attachments/assets/8d0117f1-e3e3-480c-b31c-f9e9a4419173)
 ![](https://github.com/bowie-dev/drone/blob/main/img/img1.png?raw=true)
 ![](https://raw.githubusercontent.com/bowie-dev/drone/refs/heads/main/img/mock.png)
 ### Wiring Diagram:
