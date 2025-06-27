@@ -1,5 +1,5 @@
 DD/MM/YY Total Time for ideation/design: ~30h
-## 07/06/25 - Day 1 ~3h
+## 07/06/25 - Day 1 ~4h
  - Initial research into parts, shape, size, components, requirements
  - Brainstorming and initial design
  - Requirements Ideation
@@ -14,12 +14,12 @@ DD/MM/YY Total Time for ideation/design: ~30h
  - ![layout](https://github.com/user-attachments/assets/9b991ee3-25b3-4b57-9453-5cdd98c892fb)
 
 
-## 09/06/25 - Day 3 ~3h
+## 09/06/25 - Day 3 ~4h
  - Look into part sourcing
  - Design components in CAD to help brainstorm part fitment and orientation
  - ![raspi](https://github.com/user-attachments/assets/74b47ad9-b769-4c41-9d57-c82ef967327c)
 
-## 10/06/25 - Day 4 ~4h
+## 10/06/25 - Day 4 ~5h
  - Source camera and transmitter
  - Further develop frame design
  - FEA (Finite element analysis) to determine physical limits of frame and current setup (read document below)
@@ -33,7 +33,7 @@ DD/MM/YY Total Time for ideation/design: ~30h
  - Research part sourcing to minimise costs + shipping
  - ![image](https://github.com/user-attachments/assets/963febcb-25fd-4077-8c57-9b20b35e0a21)
 
-## 22/06/25 - Day 6 ~2h
+## 22/06/25 - Day 6 ~3h
  - Design wiring layout and brainstorm pseudocode for flight controller
  - Begin the final BOM in csv layout
 
