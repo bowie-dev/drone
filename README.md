@@ -5,7 +5,8 @@ I am making this because I have an interest in and want to get into FPV drone fl
 
 ## Files:
 Bill of Materials (BOM) is /bom.csv<br>
-CAD files are in /cad/.
+CAD files are in /cad/.  (all solidworks files because I use solidworks and I am printing everything myself, if you need the CAD files PLEASE DM me before rejecting)
+
 
 ## Design:
 ### Model:
