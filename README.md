@@ -6,7 +6,7 @@ I am making this because I have an interest in and want to get into FPV drone fl
 ## Files:
 Bill of Materials (BOM) is /bom.csv<br>
 CAD files are in /cad/. <br>
-All the CAD is SolidWorks parts/assemblies but frame is STEP file, I am printing the frame myself. If you need STEP files for all components (idk why you would) DM me before rejecting.
+All the CAD is SolidWorks parts/assemblies but frame is STEP file, I am printing the frame myself. If you need STEP files for all components (idk why you would), please DM me before rejecting.
 
 ## Design:
 ### Model:
